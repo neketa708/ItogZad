@@ -10,3 +10,16 @@ void array(string [] stringArray)
      stringArray[i] = Console.ReadLine();
   }
 }
+
+void Print(string [] stringArray)
+{
+    Console.Write("[");
+    for (int i = 0;i<stringArray.Length;i++)
+    {
+    Console.Write($"\"{stringArray[i]}\", ");
+    }
+    Console.Write("]");
+}
+
+array(stringArray);
+printA(symbol(stringArray));
