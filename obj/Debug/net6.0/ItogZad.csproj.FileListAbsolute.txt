@@ -1,0 +1,15 @@
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.csproj.AssemblyReference.cache
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.GeneratedMSBuildEditorConfig.editorconfig
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.AssemblyInfoInputs.cache
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.AssemblyInfo.cs
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.csproj.CoreCompileInputs.cache
+D:\gek\rabota\ItogZad\bin\Debug\net6.0\ItogZad.exe
+D:\gek\rabota\ItogZad\bin\Debug\net6.0\ItogZad.deps.json
+D:\gek\rabota\ItogZad\bin\Debug\net6.0\ItogZad.runtimeconfig.json
+D:\gek\rabota\ItogZad\bin\Debug\net6.0\ItogZad.dll
+D:\gek\rabota\ItogZad\bin\Debug\net6.0\ItogZad.pdb
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.dll
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\refint\ItogZad.dll
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.pdb
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ItogZad.genruntimeconfig.cache
+D:\gek\rabota\ItogZad\obj\Debug\net6.0\ref\ItogZad.dll

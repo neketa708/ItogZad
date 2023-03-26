@@ -11,19 +11,6 @@ void Array(string [] stringArray)
   }
 }
 
-void Print(string [] stringArray)
-{
-    Console.Write("[");
-    for (int i = 0;i<stringArray.Length;i++)
-    {
-    Console.Write($"\"{stringArray[i]}\", ");
-    }
-    Console.Write("]");
-}
-
-array(stringArray);
-printA(symbol(stringArray));
-
 string [] Symbol(string [] stringArray)
 {
   int n = 0;
@@ -44,3 +31,18 @@ string [] Symbol(string [] stringArray)
   }
   return rez;
 }
+
+void Print(string [] stringArray)
+{
+    Console.Write("[");
+    for (int i = 0;i<stringArray.Length;i++)
+    {
+    Console.Write($"\"{stringArray[i]}\", ");
+    }
+    Console.Write("]");
+}
+
+Array(stringArray);
+Print(Symbol(stringArray));
+
+
